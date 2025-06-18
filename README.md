@@ -1,4 +1,4 @@
-# PassBook-TransactionTrackerApp
+# FinSight-TransactionTrackerApp
 An application that track down all transactions with detailed information. Used Core Graphics to view a graphical representation of past transactions. Used Core Data to locally store credit and debit transactions data. Fetching saved data of past transactions on XIB Cell of Table-view. Making use of Firebase for authenticating users.
 
 # MOCKUP-1
